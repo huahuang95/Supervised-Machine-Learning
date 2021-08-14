@@ -7,9 +7,16 @@ Team project for Supervised-Machine-Learning (BA810)
 - Kaggle: [Melbourne Housing Market](https://www.kaggle.com/anthonypino/melbourne-housing-market)
 
 ### Project Objectives
-- Build several supervised machine learning models and predict housing prices in Melbourne.
+- Build several supervised machine learning models and see which one performs the best in terms of Melbourne housing price prediction.
 - Find important variables that influence the prices the most and provide advice to buyers and sellers.
-- Apply **Linear Regression, Ridge Regression, Lasso Regression, Bagging (Bootstrap aggregating), Random Forest, and Boosting** to see which one performs the best in terms of price prediction.
+
+### Methods
+- Linear Regression
+- Ridge Regression
+- Lasso Regression
+- Bagging (Bootstrap aggregating)
+- Random Forest
+- Boosting
 
 ### Project Summary
 - According to the exploratory data analysis, we learned that some patterns or relationships exist among the location’s features and house prices, such as Regionname; and the houses far from CBD tend to have lower prices. After we execute several models, variable CouncilArea does strongly affect the house prices.
