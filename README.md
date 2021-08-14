@@ -4,7 +4,7 @@
 Team project for Supervised-Machine-Learning (BA810)
 
 ### Data Source
-Kaggle: [Melbourne Housing Market](https://www.kaggle.com/anthonypino/melbourne-housing-market)
+- Kaggle: [Melbourne Housing Market](https://www.kaggle.com/anthonypino/melbourne-housing-market)
 
 ### Project Objectives
 - Build several supervised machine learning models and predict housing prices in Melbourne.
