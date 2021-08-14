@@ -11,6 +11,7 @@ Team project for Supervised-Machine-Learning (BA810)
 - Find important variables that influence the prices the most and provide advice to buyers and sellers.
 
 ### Methods
+- Language: R
 - Linear Regression
 - Ridge Regression
 - Lasso Regression
